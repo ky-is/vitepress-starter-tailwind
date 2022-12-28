@@ -1,5 +1,5 @@
 module.exports = {
-  content: [
+	content: [
 		'./docs/.vitepress/**/*.{js,ts,vue}',
 		'./docs/**/*.md',
 	],
